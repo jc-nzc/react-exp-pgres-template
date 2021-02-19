@@ -1,3 +1,5 @@
+# This react app is the view to the MVC express/postgresql api template
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
